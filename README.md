@@ -21,8 +21,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=ThatCoolGuyyy&icon=2&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/thatc0olguy) 
   ## 🌐Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oluwadamilolaoshungboye) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thatc0olguyy) 
 
