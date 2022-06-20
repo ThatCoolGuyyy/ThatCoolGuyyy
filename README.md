@@ -1,5 +1,5 @@
 
-## Hey there! I'm Dami
+## Hey there! I'm Dami 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
 
