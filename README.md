@@ -3,13 +3,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a backend developer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-
+💡 &nbsp;I am a backend developer and all-round Pythonista.<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">.\
+🎓 &nbsp;I'm currently getting my Udacity Nanodegree and AWS Cloud Certification.\
+🌱 &nbsp;I also do Data Science/Machine learning stuff.\
+👯 &nbsp;I’m looking to collaborate on Python projects..\
+📫 &nbsp;How to reach me: [@thatc0olguyy](https://twitter.com/thatc0olguyy)
 
 
 ### 🛠 Tech Stack:
