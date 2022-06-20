@@ -17,7 +17,7 @@
 ### 📊GitHub Stats :
 <div img-align = "center">![](https://github-readme-stats.vercel.app/api?username=ThatCoolGuyyy&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThatCoolGuyyy&theme=buefy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </div>
 
 ---
 | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatCoolGuyyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
