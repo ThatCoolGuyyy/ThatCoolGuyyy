@@ -1,12 +1,12 @@
 
-## Hey there! I'm Dami <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+## Hey there!  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;I'm Dami
 
-💡 &nbsp;I am a backend developer and all-round Pythonista.<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">.\
-🎓 &nbsp;I'm currently getting my Udacity Nanodegree and AWS Cloud Certification.\
-🌱 &nbsp;I also do Data Science/Machine learning stuff.\
-👯 &nbsp;I’m looking to collaborate on Python projects..\
+💡 &nbsp;I am a backend developer and all-round Pythonista <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
+🎓 &nbsp;I'm currently getting my Udacity Nanodegree and AWS Cloud Certification\
+🌱 &nbsp;I also do Data Science/Machine learning stuff\
+👯 &nbsp;I’m looking to collaborate on Python projects\
 📫 &nbsp;How to reach me: [@thatc0olguyy](https://twitter.com/thatc0olguyy)
 
 
