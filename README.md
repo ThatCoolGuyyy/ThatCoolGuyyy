@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </div>
 
 ---
-| <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatCoolGuyyy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatCoolGuyyy&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 [![](https://visitcount.itsvg.in/api?id=ThatCoolGuyyy&icon=2&color=9)](https://visitcount.itsvg.in)
