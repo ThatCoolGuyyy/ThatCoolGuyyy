@@ -5,7 +5,6 @@
 
 💡 &nbsp;I am a backend developer and all-round Pythonista <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
 🎓 &nbsp;I'm an AWS Certified Cloud Practioner\
-🌱 &nbsp;I also do Data Science/Machine learning stuff\
 👯 &nbsp;I’m looking to collaborate on Python projects\
 📫 &nbsp;How to reach me: [@thatc0olguyy](https://twitter.com/thatc0olguyy)
 
@@ -33,12 +32,7 @@
  ##### 💾 Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-
-#### 🤖 Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=-badge&logo=scikit-learn&logoColor=white) 
 
 
 ### 📊 GitHub Stats 
