@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;I'm Dami
 
-💡 &nbsp;I am a backend developer <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
+💡 &nbsp;I am a backend developer and Cloud Engineer <img height=20px width=20px src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">\
 🎓 &nbsp;AWSx1. Currently studyinf for my Solutions Architect\
 👯 &nbsp;I’m looking to collaborate on Python and PHP projects\
 📫 &nbsp;I write on [hashnode](damiwrites.tech)
@@ -29,7 +29,6 @@
 #### ☁ Hosting
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
  ##### 💾 Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
