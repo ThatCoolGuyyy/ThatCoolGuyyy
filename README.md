@@ -33,6 +33,10 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=-badge&logo=scikit-learn&logoColor=white) 
 
 
+### ✍️ My Latest Articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### 📊 GitHub Stats 
 ---
 | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatCoolGuyyy&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
