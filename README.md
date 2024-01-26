@@ -35,6 +35,9 @@
 
 ### ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a Containerized Laravel Application to a Local Kubernetes Cluster: A Step-by-Step Guide](https://dev.to/thatcoolguy/deploying-a-containerized-laravel-application-to-a-local-kubernetes-cluster-1al)
+- [Cloud Computing Demystified](https://dev.to/thatcoolguy/cloud-computing-demystified-1pdc)
+- [Sentry + Laravel: A Powerful Duo for Error Tracking and Debugging](https://dev.to/thatcoolguy/sentry-laravel-a-powerful-duo-for-error-tracking-and-debugging-1dh7)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Stats 
