@@ -40,7 +40,7 @@
 - [Sentry + Laravel: A Powerful Duo for Error Tracking and Debugging](https://dev.to/thatcoolguy/sentry-laravel-a-powerful-duo-for-error-tracking-and-debugging-1dh7)
 <!-- BLOG-POST-LIST:END -->
 
-### Wakatime Stats
+### 📊 Wakatime Stats
 <!--START_SECTION:waka-->
 
 ```txt
