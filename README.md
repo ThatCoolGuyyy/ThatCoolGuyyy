@@ -40,6 +40,9 @@
 - [Sentry + Laravel: A Powerful Duo for Error Tracking and Debugging](https://dev.to/thatcoolguy/sentry-laravel-a-powerful-duo-for-error-tracking-and-debugging-1dh7)
 <!-- BLOG-POST-LIST:END -->
 
+### Wakatime Stats
+<figure><embed src="https://wakatime.com/share/@thatc0olguy/68f724d8-3ce5-4325-9c00-c68d2079ce51.svg"></embed></figure>
+
 ### 📊 GitHub Stats 
 ---
 | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ThatCoolGuyyy&show_icons=true&include_all_commits=false&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/ThatCoolGuyyy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolGuyyy&layout=compact&theme=buefy&hide_border=true" /></a> |
