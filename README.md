@@ -41,7 +41,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Wakatime Stats
-<figure><embed src="https://wakatime.com/share/@thatc0olguy/68f724d8-3ce5-4325-9c00-c68d2079ce51.svg"></embed></figure>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ### 📊 GitHub Stats 
 ---
