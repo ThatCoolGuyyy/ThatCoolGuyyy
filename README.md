@@ -44,10 +44,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
-
-Total Time: 22 hrs 40 mins
-
 PHP              20 hrs 1 min    ███████████████████░░░░░░   76.29 %
 Other            3 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
 Bash             1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
