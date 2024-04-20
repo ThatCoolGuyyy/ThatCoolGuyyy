@@ -44,14 +44,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 April 2024 - To: 18 April 2024
+From: 12 April 2024 - To: 19 April 2024
 
-Total Time: 22 hrs 15 mins
+Total Time: 22 hrs 20 mins
 
-PHP              22 hrs 2 mins   ███████████████████████▓░   94.76 %
-Other            1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Bash             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP     22 hrs 8 mins   ███████████████████████▓░   94.87 %
+Other   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Bash    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
