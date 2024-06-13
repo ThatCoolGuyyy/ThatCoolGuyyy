@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-Total Time: 15 hrs 14 mins
+Total Time: 12 hrs 52 mins
 
-Vue.js           5 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   34.63 %
-PHP              5 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.46 %
-Other            1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-JavaScript       1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Blade Template   1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Vue.js           5 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   38.24 %
+PHP              4 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 %
+Other            1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+JavaScript       1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Blade Template   52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
 ```
 
 <!--END_SECTION:waka-->
