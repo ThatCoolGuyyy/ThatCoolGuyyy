@@ -35,9 +35,9 @@
 
 ### ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Twilio Challenge: Can You Beat Gemini? Tic Tac Toe](https://dev.to/thatcoolguy/twilio-challenge-can-you-beat-gemini-tic-tac-toe-1em8)
+- [Twilio Challenge: AI-Powered Voice Assistant](https://dev.to/thatcoolguy/twilio-challenge-ai-powered-voice-assistant-30j8)
 - [How To Build an AI-Powered Voice Assistant With Twilio, Laravel, and OpenAI](https://dev.to/thatcoolguy/how-to-build-an-ai-powered-voice-assistant-with-twilio-laravel-and-openai-h2o)
-- [Top 5 PHP Form Builders in 2024](https://dev.to/thatcoolguy/top-5-php-form-builders-in-2024-5g6d)
-- [Deploying a Containerized Laravel Application to a Local Kubernetes Cluster: A Step-by-Step Guide](https://dev.to/thatcoolguy/deploying-a-containerized-laravel-application-to-a-local-kubernetes-cluster-1al)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Wakatime Stats
