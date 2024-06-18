@@ -35,7 +35,7 @@
 
 ### ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Twilio Challenge: Can You Beat Gemini? Tic Tac Toe](https://dev.to/thatcoolguy/twilio-challenge-can-you-beat-gemini-tic-tac-toe-1em8)
+- [Twilio Challenge: Can You Beat Gemini? AI-Powered Game of Tic Tac Toe](https://dev.to/thatcoolguy/twilio-challenge-can-you-beat-gemini-tic-tac-toe-1em8)
 - [Twilio Challenge: AI-Powered Voice Assistant](https://dev.to/thatcoolguy/twilio-challenge-ai-powered-voice-assistant-30j8)
 - [How To Build an AI-Powered Voice Assistant With Twilio, Laravel, and OpenAI](https://dev.to/thatcoolguy/how-to-build-an-ai-powered-voice-assistant-with-twilio-laravel-and-openai-h2o)
 <!-- BLOG-POST-LIST:END -->
