@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 16 hrs 48 mins
+Total Time: 16 hrs 47 mins
 
-PHP                        14 hrs 58 mins  █████████████████████▓░░░   86.71 %
-JSON                       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+PHP                        14 hrs 56 mins  █████████████████████▓░░░   86.72 %
+JSON                       37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 YAML                       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 Bash                       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 Other                      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
