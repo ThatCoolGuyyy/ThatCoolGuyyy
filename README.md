@@ -35,11 +35,11 @@
 
 ### ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Rust vs Go? Which should you choose in 2024](https://dev.to/thatcoolguy/rust-vs-go-which-should-you-choose-in-2024-50k5)
 - [Bootstrap vs. Tailwind CSS: A Comparison of Top CSS Frameworks](https://dev.to/strapi/bootstrap-vs-tailwind-css-a-comparison-of-top-css-frameworks-64i)
 - [Twilio Challenge: Can You Beat Gemini? AI-Powered Game of Tic Tac Toe](https://dev.to/thatcoolguy/twilio-challenge-can-you-beat-gemini-tic-tac-toe-1em8)
 - [Twilio Challenge: AI-Powered Voice Assistant](https://dev.to/thatcoolguy/twilio-challenge-ai-powered-voice-assistant-30j8)
 - [How To Build an AI-Powered Voice Assistant With Twilio, Laravel, and OpenAI](https://dev.to/thatcoolguy/how-to-build-an-ai-powered-voice-assistant-with-twilio-laravel-and-openai-h2o)
-- [Top 5 PHP Form Builders in 2024](https://dev.to/thatcoolguy/top-5-php-form-builders-in-2024-5g6d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Wakatime Stats
