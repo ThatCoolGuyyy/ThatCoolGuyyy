@@ -46,15 +46,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2024 - To: 28 August 2024
+From: 22 August 2024 - To: 29 August 2024
 
-Total Time: 7 hrs 3 mins
+Total Time: 5 hrs 16 mins
 
-PHP          7 hrs 2 mins    ████████████████████████▒   96.69 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP          5 hrs 15 mins   ████████████████████████▓   98.34 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
