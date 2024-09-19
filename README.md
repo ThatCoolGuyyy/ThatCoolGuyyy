@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Total Time: 11 hrs 47 mins
+Total Time: 5 hrs 4 mins
 
-PHP          10 hrs 24 mins  ████████████████████▓░░░░   82.29 %
-Bash         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Other        51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Go           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-XML          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+PHP     3 hrs 50 mins   █████████████████▓░░░░░░░   70.76 %
+Bash    45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+Go      28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Other   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+CSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
