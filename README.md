@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2024 - To: 21 October 2024
+From: 15 October 2024 - To: 22 October 2024
 
-Total Time: 13 hrs 42 mins
+Total Time: 22 hrs 4 mins
 
-PHP              10 hrs 24 mins  ██████████████████▒░░░░░░   72.88 %
-TypeScript       1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Other            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-Docker           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Python           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+PHP              18 hrs 34 mins  ████████████████████░░░░░   79.46 %
+TypeScript       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other            1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Blade Template   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Docker           20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
