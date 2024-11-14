@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2024 - To: 12 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-Total Time: 17 hrs 54 mins
+Total Time: 24 hrs 40 mins
 
-PHP              10 hrs 6 mins   █████████████░░░░░░░░░░░░   52.51 %
-TypeScript       4 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-JSON             1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
-Other            1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Bash             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+TypeScript       12 hrs 17 mins  ████████████▒░░░░░░░░░░░░   48.74 %
+PHP              7 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.85 %
+JSON             2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+YAML             1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Bash             35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
