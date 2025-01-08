@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Total Time: 18 hrs 36 mins
+Total Time: 20 hrs 45 mins
 
-PHP              14 hrs 12 mins  ██████████████████▒░░░░░░   73.13 %
-Markdown         3 hrs 17 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.97 %
-Other            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JSON             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-YAML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+PHP              17 hrs 18 mins  ████████████████████░░░░░   79.88 %
+Markdown         2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Other            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+YAML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Bash             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
