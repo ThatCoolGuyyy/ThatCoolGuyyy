@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2025 - To: 26 January 2025
+From: 20 January 2025 - To: 27 January 2025
 
-Total Time: 22 hrs 28 mins
+Total Time: 22 hrs 46 mins
 
-PHP              19 hrs 55 mins  █████████████████████░░░░   83.84 %
-Other            1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Docker           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Bash             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Markdown         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+PHP              20 hrs 26 mins  █████████████████████▒░░░   84.84 %
+Other            1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Docker           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Markdown         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Blade Template   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
