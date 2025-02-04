@@ -46,13 +46,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Total Time: 24 hrs 13 mins
+Total Time: 21 hrs 46 mins
 
-PHP     24 hrs 2 mins   ███████████████████████▒░   93.01 %
-Other   1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-JSON    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+PHP     21 hrs 35 mins  ██████████████████████░░░   87.69 %
+Other   2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+JSON    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Git     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
