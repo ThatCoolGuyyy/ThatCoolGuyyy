@@ -46,15 +46,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2025 - To: 19 March 2025
+From: 13 March 2025 - To: 20 March 2025
 
-Total Time: 50 mins
+Total Time: 0 secs
 
-Go           42 mins         █████████████████████░░░░   84.05 %
-YAML         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
