@@ -46,12 +46,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2025 - To: 25 March 2025
+From: 19 March 2025 - To: 26 March 2025
 
-Total Time: 22 mins
+Total Time: 4 hrs 3 mins
 
-Markdown   22 mins         ████████████████████████▒   97.89 %
-Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown   3 hrs 25 mins   █████████████████████░░░░   84.28 %
+PHP        37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
