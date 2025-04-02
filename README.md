@@ -46,12 +46,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2025 - To: 31 March 2025
+From: 25 March 2025 - To: 01 April 2025
 
-Total Time: 26 hrs 56 mins
+Total Time: 26 hrs 55 mins
 
-PHP          12 hrs 40 mins  ███████████▓░░░░░░░░░░░░░   46.08 %
-Markdown     11 hrs 59 mins  ███████████░░░░░░░░░░░░░░   43.63 %
+PHP          12 hrs 40 mins  ███████████▓░░░░░░░░░░░░░   46.10 %
+Markdown     11 hrs 59 mins  ███████████░░░░░░░░░░░░░░   43.62 %
 TypeScript   35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 Other        34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 YAML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
