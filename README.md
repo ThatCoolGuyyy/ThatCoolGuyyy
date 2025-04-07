@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2025 - To: 05 April 2025
+From: 30 March 2025 - To: 06 April 2025
 
-Total Time: 19 hrs 47 mins
+Total Time: 23 hrs 54 mins
 
-PHP              11 hrs 36 mins  ██████████████░░░░░░░░░░░   56.03 %
-Markdown         6 hrs 19 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-Blade Template   1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Other            55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-YAML             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown         11 hrs 47 mins  ████████████░░░░░░░░░░░░░   47.55 %
+PHP              10 hrs 15 mins  ██████████▒░░░░░░░░░░░░░░   41.36 %
+Blade Template   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Other            53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+YAML             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
