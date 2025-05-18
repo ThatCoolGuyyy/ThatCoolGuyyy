@@ -46,14 +46,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Total Time: 17 hrs 19 mins
+Total Time: 17 hrs 17 mins
 
-PHP              15 hrs 54 mins  ████████████████████▓░░░░   83.13 %
-Other            1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-JSON             45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-Bash             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+PHP              15 hrs 53 mins  ████████████████████▓░░░░   83.11 %
+Other            1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+JSON             45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Bash             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 Blade Template   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
