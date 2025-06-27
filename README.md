@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2025 - To: 25 June 2025
+From: 19 June 2025 - To: 26 June 2025
 
-Total Time: 23 hrs 23 mins
+Total Time: 16 hrs 51 mins
 
-PHP              21 hrs 14 mins  ██████████████████████▓░░   90.09 %
-Markdown         1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Docker           34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+PHP              14 hrs 54 mins  ██████████████████████░░░   87.73 %
+Markdown         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Docker           34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+YAML             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
