@@ -46,14 +46,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
-Total Time: 17 hrs 20 mins
+Total Time: 12 hrs 23 mins
 
-PHP              16 hrs 52 mins  ███████████████████████░░   91.70 %
-Other            1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Blade Template   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+PHP              11 hrs 56 mins  █████████████████████▓░░░   87.19 %
+Other            1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+Blade Template   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Bash             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
