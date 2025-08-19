@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2025 - To: 17 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
-Total Time: 13 hrs 32 mins
+Total Time: 17 hrs 9 mins
 
-PHP              10 hrs 47 mins  ██████████████████▓░░░░░░   74.91 %
-Blade Template   1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Other            50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Bash             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Vue.js           17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+PHP              14 hrs 17 mins  ████████████████████░░░░░   79.39 %
+Blade Template   1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Other            50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Vue.js           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
