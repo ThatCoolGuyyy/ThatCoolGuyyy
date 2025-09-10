@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 19 hrs 19 mins
+Total Time: 21 hrs 25 mins
 
-PHP              17 hrs 8 mins   ████████████████████▓░░░░   83.00 %
-Blade Template   1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-Other            1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Docker           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-SQL              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+PHP              18 hrs 21 mins  ████████████████████▒░░░░   80.77 %
+Blade Template   1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+Other            1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TypeScript       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+YAML             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
