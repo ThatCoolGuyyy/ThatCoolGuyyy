@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Total Time: 21 hrs 25 mins
+Total Time: 18 hrs 8 mins
 
-PHP              18 hrs 21 mins  ████████████████████▒░░░░   80.77 %
-Blade Template   1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Other            1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-TypeScript       27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-YAML             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+PHP              11 hrs 37 mins  ███████████████▓░░░░░░░░░   62.50 %
+TypeScript       2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+Blade Template   1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+YAML             53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+JSON             52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
