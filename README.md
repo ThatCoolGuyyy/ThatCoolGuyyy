@@ -46,14 +46,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
 Total Time: 5 hrs 38 mins
 
-PHP          5 hrs 35 mins   ███████████████████████▓░   94.72 %
+PHP          5 hrs 35 mins   ███████████████████████▓░   94.74 %
 Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 TypeScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
