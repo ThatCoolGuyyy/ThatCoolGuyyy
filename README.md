@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2026 - To: 12 January 2026
+From: 06 January 2026 - To: 13 January 2026
 
-Total Time: 26 hrs 51 mins
+Total Time: 22 hrs 55 mins
 
-TypeScript                 15 hrs 58 mins  ██████████████▓░░░░░░░░░░   59.19 %
-PHP                        8 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.27 %
-Bash                       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-JSON                       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Nginx configuration file   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript   16 hrs          █████████████████▒░░░░░░░   69.40 %
+PHP          6 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   28.03 %
+JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
