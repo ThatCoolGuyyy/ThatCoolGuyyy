@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2026 - To: 23 January 2026
+From: 17 January 2026 - To: 24 January 2026
 
-Total Time: 12 hrs 40 mins
+Total Time: 12 hrs 43 mins
 
-PHP          10 hrs 12 mins  ███████████████████▓░░░░░   78.05 %
-TypeScript   2 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-Python       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+PHP          10 hrs 12 mins  ██████████████████░░░░░░░   71.41 %
+TypeScript   2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+Other        1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Bash         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
