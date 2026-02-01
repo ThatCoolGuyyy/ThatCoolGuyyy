@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2026 - To: 30 January 2026
+From: 24 January 2026 - To: 31 January 2026
 
-Total Time: 11 hrs 11 mins
+Total Time: 10 hrs 58 mins
 
-PHP              7 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.08 %
-Other            2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 %
-TypeScript       1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Blade Template   46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-JSON             44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+PHP              7 hrs 26 mins   ███████████████░░░░░░░░░░   60.06 %
+TypeScript       1 hr 38 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
+Other            1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Blade Template   46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
+JSON             44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
