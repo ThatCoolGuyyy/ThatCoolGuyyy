@@ -38,7 +38,7 @@
 - [Looking to optimize memory in your Go application? Check out this guide](https://dev.to/thatcoolguy/looking-to-optimize-memory-in-your-go-application-check-out-this-guide-gh5)
 - [How to Manage Memory in Go Applications](https://dev.to/thatcoolguy/memory-management-in-go-4-effective-approaches-39d2)
 - [How to Build a Real-Time Chat App With Laravel, Vue.js, and Pusher](https://dev.to/thatcoolguy/how-to-build-a-real-time-chat-app-with-laravel-vuejs-and-pusher-19ik)
-- [Rust vs Go? Which Should You Learn in 2025](https://dev.to/thatcoolguy/rust-vs-go-which-should-you-choose-in-2024-50k5)
+- [Rust vs Go? Which Should You Learn in 2026](https://dev.to/thatcoolguy/rust-vs-go-which-should-you-choose-in-2024-50k5)
 - [Bootstrap vs. Tailwind CSS: A Comparison of Top CSS Frameworks](https://dev.to/strapi/bootstrap-vs-tailwind-css-a-comparison-of-top-css-frameworks-64i)
 <!-- BLOG-POST-LIST:END -->
 
