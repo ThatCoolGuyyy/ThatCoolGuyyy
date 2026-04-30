@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2026 - To: 28 April 2026
+From: 22 April 2026 - To: 29 April 2026
 
-Total Time: 4 hrs 22 mins
+Total Time: 5 hrs 52 mins
 
-PHP              3 hrs 21 mins         ██████████████▓░░░░░░░░░░   58.18 %
-Other            1 hr 24 mins          ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-NEON             21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Markdown         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Blade Template   12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+PHP              4 hrs 18 mins         ██████████████░░░░░░░░░░░   56.36 %
+Other            1 hr 46 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+Markdown         29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+NEON             21 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Blade Template   13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
