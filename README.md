@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Total Time: 13 hrs 25 mins
+Total Time: 9 hrs 37 mins
 
-PHP          11 hrs 27 mins        ██████████████▒░░░░░░░░░░   56.88 %
-Other        6 hrs 42 mins         ████████▒░░░░░░░░░░░░░░░░   33.31 %
-Bash         43 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-YAML         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Markdown     24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+PHP          7 hrs 1 min           █████████████▒░░░░░░░░░░░   53.94 %
+Other        3 hrs 23 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
+YAML         48 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Markdown     46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Bash         24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
 ```
 
 <!--END_SECTION:waka-->
