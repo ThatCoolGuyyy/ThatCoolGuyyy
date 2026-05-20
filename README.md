@@ -35,11 +35,11 @@
 
 ### ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to refine Hope AI output after the initial generation](https://dev.to/hackmamba/how-to-refine-hope-ai-output-after-the-initial-generation-59mn)
+- [The Three-Layer Architecture That Makes Software Production-Ready](https://dev.to/hackmamba/the-three-layer-architecture-that-makes-software-production-ready-2pdh)
+- [The top 15 developer productivity tools in 2026](https://dev.to/coderabbitai/the-top-15-developer-productivity-tools-in-2026-1nb6)
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2)
 - [Looking to optimize memory in your Go application? Check out this guide](https://dev.to/thatcoolguy/looking-to-optimize-memory-in-your-go-application-check-out-this-guide-gh5)
-- [How to Manage Memory in Go Applications](https://dev.to/thatcoolguy/memory-management-in-go-4-effective-approaches-39d2)
-- [How to Build a Real-Time Chat App With Laravel, Vue.js, and Pusher](https://dev.to/thatcoolguy/how-to-build-a-real-time-chat-app-with-laravel-vuejs-and-pusher-19ik)
-- [Rust vs Go? Which Should You Learn in 2026](https://dev.to/thatcoolguy/rust-vs-go-which-should-you-choose-in-2024-50k5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Wakatime Stats
