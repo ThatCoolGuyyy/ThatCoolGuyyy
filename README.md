@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2026 - To: 16 August 2026
+From: 10 August 2026 - To: 17 August 2026
 
-Total Time: 11 hrs 24 mins
+Total Time: 7 hrs 33 mins
 
-PHP          8 hrs 35 mins         ██████████████████▒░░░░░░   73.35 %
-Markdown     2 hrs 9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-Other        18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-YAML         14 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Docker       13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+PHP          5 hrs 18 mins         ████████████████▒░░░░░░░░   65.55 %
+Markdown     1 hr 36 mins          █████░░░░░░░░░░░░░░░░░░░░   19.93 %
+Other        32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Docker       13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+YAML         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
