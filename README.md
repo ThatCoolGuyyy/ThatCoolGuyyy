@@ -35,11 +35,11 @@
 
 ### ✍️ My Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Agent Loops Need Independent Verification](https://dev.to/hackmamba/why-your-agent-loops-need-independent-verification-4jdk)
 - [How to refine Hope AI output after the initial generation](https://dev.to/hackmamba/how-to-refine-hope-ai-output-after-the-initial-generation-59mn)
 - [The Three-Layer Architecture That Makes Software Production-Ready](https://dev.to/hackmamba/the-three-layer-architecture-that-makes-software-production-ready-2pdh)
 - [The top 15 developer productivity tools in 2026](https://dev.to/coderabbitai/the-top-15-developer-productivity-tools-in-2026-1nb6)
 - [How to use AI to identify and fix security vulnerabilities in your codebase](https://dev.to/coderabbitai/how-to-use-ai-to-identify-and-fix-security-vulnerabilities-in-your-codebase-4na2)
-- [Looking to optimize memory in your Go application? Check out this guide](https://dev.to/thatcoolguy/looking-to-optimize-memory-in-your-go-application-check-out-this-guide-gh5)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Wakatime Stats
