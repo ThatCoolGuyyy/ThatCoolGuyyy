@@ -46,15 +46,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Total Time: 9 hrs 30 mins
+Total Time: 6 hrs 56 mins
 
-Other        6 hrs 26 mins         ██████████░░░░░░░░░░░░░░░   40.39 %
-PHP          5 hrs 28 mins         ████████▓░░░░░░░░░░░░░░░░   34.36 %
-Markdown     1 hr 30 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-Python       50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-Bash         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Other        5 hrs 45 mins         ███████████▒░░░░░░░░░░░░░   45.32 %
+PHP          3 hrs 59 mins         ████████░░░░░░░░░░░░░░░░░   31.42 %
+Python       50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Markdown     49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+Text         21 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
