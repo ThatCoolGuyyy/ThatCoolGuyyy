@@ -11,7 +11,26 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - name: Download WakaReadme
+        uses: actions/checkout@v4
+        with:
+          repository: athul/waka-readme
+          ref: 370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
+          path: .waka-readme
+          persist-credentials: false
+      - name: Use OAuth Bearer authentication
+        shell: python
+        run: |
+          from pathlib import Path
+
+          path = Path(".waka-readme/main.py")
+          source = path.read_text()
+          old = 'f"Basic {encoded_key}"'
+          new = 'f"Bearer {wk_i.waka_key}"'
+          if source.count(old) != 1:
+              raise SystemExit("WakaReadme authentication code changed; review the OAuth patch.")
+          path.write_text(source.replace(old, new))
+      - uses: ./.waka-readme
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true # optional
@@ -21,3 +40,4 @@ jobs:
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
+
